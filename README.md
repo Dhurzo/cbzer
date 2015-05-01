@@ -23,5 +23,5 @@ Transforms CBR files into CBZ files or create CBZ files from imagefiles.
 
 TODO:
 
--Tests
--Multithreading
+* -Tests
+* -Multithreading
