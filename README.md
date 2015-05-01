@@ -1,9 +1,6 @@
-# CBZer V0.1B
-============== #
+# CBZer V0.1B #
 
-## Transforms CBR files into CBZ files or create CBZ files from imagefiles.
---------------
- ##
+## Transforms CBR files into CBZ files or create CBZ files from imagefiles. ##
 *Usage:*
 
 * usage: cbzer.py [-h] [-K] [-M] -p PATH
@@ -19,8 +16,6 @@
 *   -p PATH, --path PATH  Path to cbr files or to JPEG files
 * 
 
-## TODO:
---------------
- ##
+## TODO: ##
 * -Tests
 * -Multithreading
