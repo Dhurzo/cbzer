@@ -11,7 +11,7 @@
 *   -h, --help            show this help message and exit
 *   -K, --keep            Keep JPEG
 *   -M, --make            Make from JPEG
-* 
+
 
 ## TODO: ##
 
